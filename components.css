@@ -1,4 +1,6 @@
-/*  Header  */
+/* ---------------------------*\
+       Header  
+\* ---------------------------*/
 
 .header {
   background-color: #6200EA;
@@ -16,7 +18,9 @@
 }
 
 
-/* Header Navigation */
+/* ---------------------------*\
+       Header Navigation 
+\* ---------------------------*/
 
 .header-navigation {
   height: 100%;
@@ -26,7 +30,6 @@
 .header-navigation-links {
   display: table-cell;
   vertical-align: middle;
-  text-align: center;
   letter-spacing: 60px;
 }
 
