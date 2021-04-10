@@ -1,0 +1,45 @@
+/*  Header  */
+
+.header {
+  background-color: #6200EA;
+  height: 80px;
+}
+
+.header-container {
+  height: 100%;
+  display: table;
+}
+
+.header-content {
+ display: table-cell;
+ vertical-align: middle;
+}
+
+
+/* Header Navigation */
+
+.header-navigation {
+  height: 100%;
+  display: table;
+}
+
+.header-navigation-links {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  letter-spacing: 60px;
+}
+
+.nav-button {
+        padding-bottom: 2.1rem; 
+        color:          #B2ACBA;
+      }
+
+    
+      .nav-button:visited { color: #FFFFFF; }
+
+      .nav-button:hover {
+        border-bottom:  solid;
+        border-color:   #FFFFFF;
+        color:          #FFFFFF;
+      }

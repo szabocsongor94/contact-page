@@ -1,0 +1,28 @@
+
+
+/*--------------------------------------------------*\
+    Layout settings
+\*--------------------------------------------------*/
+
+
+.full-width {width: 100%}
+
+.width_70_percent {width: 70%}  
+
+.width_50_percent {width: 50%}
+
+
+
+.layout-centered {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.layout-items-floated-right {
+  float: right;
+}
+
+.layout-items-floated-left {
+  float: left;
+}
